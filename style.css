@@ -1,0 +1,17 @@
+body{
+  background-color: peru;
+}
+h1{
+  text-align: center;
+  color: white;
+}
+ul li .R:hover{
+  color: red;
+  font-size: 20px;
+}
+.E:hover{
+  color: green;
+}
+.S:hover{
+  color: black;
+}

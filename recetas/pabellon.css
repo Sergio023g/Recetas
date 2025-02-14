@@ -1,0 +1,28 @@
+#fondo{
+  background-color: aquamarine;
+  border: 7px solid darkblue;
+  width: 500px;
+  height: 70px;
+}
+*{
+  font-weight: bold;
+}
+img{
+  background-repeat: no-repeat;
+  padding: 10px 440px;
+  background-color: peru;
+  border-radius: 20px;
+}
+body{
+  background-color: rgb(99, 148, 237,0.4);
+}
+#DEF strong:hover{
+  color: blue;
+}
+#DEF{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+.H2{
+  color: green;
+}
